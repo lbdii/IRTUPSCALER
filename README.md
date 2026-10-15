@@ -8,13 +8,13 @@ Les modèles sont inclus dans l’extension. Aucune image ni piste audio n’est
 
 Amélioration vidéo en temps réel 
 IRTUPSCALE affiche une barre de commandes auprès des lecteurs vidéo compatibles. Le traitement peut être activé ou désactivé sans modifier le fichier source.
-
-Méthode	Utilisation 
-None :Appliquer uniquement les filtres compatibles, à la résolution source, sans reconstruction IA.
-IA locale : contours	Mode par défaut utilisant NomosUni compact. Conseillé pour les contours d’animation ; peut donner un aspect dessiné aux images réelles.
-AnimeJaNai V3 : animation	Modèle spécialisé pour les animes et les dessins animés.
-Images réelles : naturel — expérimental	Modèle Real-ESRGAN general WDN, à débruitage faible, destiné aux films, documentaires et visages. Plus exigeant en calcul.
-Une nouvelle vidéo démarre sans upscale actif. Les réglages restent enregistrés pour les utilisations suivantes.
+    
+    Méthode	Utilisation 
+    None : Appliquer uniquement les filtres compatibles, à la résolution source, sans reconstruction IA.
+    IA locale : contours	Mode par défaut utilisant NomosUni compact. Conseillé pour les contours d’animation ; peut donner un aspect dessiné aux images réelles.
+    AnimeJaNai V3 : animation	Modèle spécialisé pour les animes et les dessins animés.
+    Images réelles : naturel — expérimental	Modèle Real-ESRGAN general WDN, à débruitage faible, destiné aux films, documentaires et visages. Plus exigeant en calcul.
+    Une nouvelle vidéo démarre sans upscale actif. Les réglages restent enregistrés pour les utilisations suivantes.
 
 Réglages de reconstruction 
 - Détail de calcul pour choisir la quantité de pixels analysés par l’IA.
